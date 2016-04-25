@@ -1,3 +1,8 @@
+//Programmname: GruenhagenJan-Rene-2
+//Ersteller: Jan-René Grünhagen
+
+//Dreamteam: Nicoletta Constantin
+
 #include <stdio.h>
 
 // Erzeugt Sternchen und Zeilennamen mit Nummern
